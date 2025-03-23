@@ -5,7 +5,6 @@ Além de dev, sou um grande entusiasta de cybersecurity e da cultura DevOps.
 ##  
 ![Alt Text](https://h4rithd.com/blog/content/images/size/w1000/2021/06/image-329.png)
 
-### Algumas das Linguagens e Tecnologias que uso no meu dia a dia 
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
