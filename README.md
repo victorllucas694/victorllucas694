@@ -1,4 +1,4 @@
-### Olá, sou Victor, tenho 23 anos e sou um dev apaixonado por tecnologia. Seja bem vindo ao meu perfil!
+### Olá, sou Victor, tenho 23 anos. Seja bem vindo ao meu perfil!
 
 Além de dev, sou um grande entusiasta de cybersecurity e da cultura DevOps.
 
