@@ -1,4 +1,8 @@
-### Linguagens e Tecnologias
+### Olá, sou Victor, tenho 23 anos e sou um dev apaixonado por tecnologia. Seja bem vindo ao meu perfil!
+
+Além de dev, sou um grande entusiasta de cybersecurity e da cultura DevOps.
+
+### Algumas das Linguagens e Tecnologias que uso no meu dia a dia 
 
 <img 
     align="left" 
