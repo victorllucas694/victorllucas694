@@ -1,4 +1,4 @@
-## Olá, sou Victor, tenho 23 anos. Seja bem vindo ao meu perfil!
+## Olá, sou Victor, tenho 23 anos. Seja bem vindo(a)
 
 ### Sou um grande entusiasta de cybersecurity e da cultura DevOps.
 
