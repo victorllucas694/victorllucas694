@@ -1,3 +1,5 @@
+0xdeadbeef and 0xc0decafe
+
 ### Olá, sou Victor, tenho 23 anos. Seja bem vindo ao meu perfil!
 
 Sou um grande entusiasta de cybersecurity e da cultura DevOps.
