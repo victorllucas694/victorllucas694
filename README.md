@@ -5,8 +5,6 @@ Além de dev, sou um grande entusiasta de cybersecurity e da cultura DevOps.
 ##  
 ![Alt Text](https://h4rithd.com/blog/content/images/size/w1000/2021/06/image-329.png)
 
-### pop rdi ; ret 
-
 ### Algumas das Linguagens e Tecnologias que uso no meu dia a dia 
 
 <div style="display: inline_block">
