@@ -1,6 +1,6 @@
 ### Olá, sou Victor, tenho 23 anos. Seja bem vindo ao meu perfil!
 
-## 0xdeadbeef and 0xc0decafe - Sou um grande entusiasta de cybersecurity e da cultura DevOps.
+## Sou um grande entusiasta de cybersecurity e da cultura DevOps.
 
 ![Alt Text](https://h4rithd.com/blog/content/images/size/w1000/2021/06/image-329.png)
 
@@ -14,3 +14,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+
+### pop rdi ; ret 
