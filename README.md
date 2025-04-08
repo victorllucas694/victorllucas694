@@ -1,4 +1,4 @@
-## Olá, sou Victor tenho 23 anos. Seja bem vindo(a)
+## Olá, sou Victor e tenho 23 anos. Seja bem vindo(a) ao meu perfil
 
 ![Alt Text](https://h4rithd.com/blog/content/images/size/w1000/2021/06/image-329.png)
 
